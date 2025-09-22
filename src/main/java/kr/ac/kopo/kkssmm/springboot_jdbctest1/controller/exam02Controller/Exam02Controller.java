@@ -1,4 +1,4 @@
-package kr.ac.kopo.kkssmm.springboot_jdbctest1.exam02Controller;
+package kr.ac.kopo.kkssmm.springboot_jdbctest1.controller.exam02Controller;
 
 import kr.ac.kopo.kkssmm.springboot_jdbctest1.domain.Member;
 import kr.ac.kopo.kkssmm.springboot_jdbctest1.repository.MemberRepository02;
